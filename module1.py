@@ -14,3 +14,6 @@ def greet(name):
         greet = "Night"
         
     print(f"Good {greet}, {name}!")
+    
+def farewell(name):
+    print(f"Goodbye, {name}!")
